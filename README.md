@@ -1,3 +1,8 @@
+> [!CAUTION]
+>
+> This repo was part of the dependencies for the [old edge device (UED)](https://github.com/Stabl-Energy/Rust-SBC-Client).
+> It is archived as it is no longer needed.
+
 # Safe Rust wrappers for the drivers in the [ESP IDF SDK](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/)
 
 [![CI](https://github.com/esp-rs/esp-idf-hal/actions/workflows/ci.yml/badge.svg)](https://github.com/esp-rs/esp-idf-hal/actions/workflows/ci.yml)
